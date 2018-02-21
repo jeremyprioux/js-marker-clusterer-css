@@ -1,0 +1,11 @@
+{
+  "name": "js-marker-clusterer-css",
+  "version": "1.0.0",
+  "main": [
+    "custom-marker.css"
+  ],
+  "dependencies": {},
+  "ignore": [
+    "bower.json"
+  ]
+}
